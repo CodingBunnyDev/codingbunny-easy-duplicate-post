@@ -1,0 +1,236 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CodingBunny Easy Duplicate Post\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-25 10:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7.2-alpha-59694\n"
+"X-Domain: coding-bunny-easy-duplicate-post"
+
+#: admin/settings.php:80
+msgid "Allowed post types"
+msgstr ""
+
+#: admin/settings.php:72
+msgid "Allowed user roles"
+msgstr ""
+
+#: admin/settings.php:224
+msgid "Attachments"
+msgstr ""
+
+#: admin/settings.php:222
+msgid "Author"
+msgstr ""
+
+#: admin/settings.php:228
+msgid "Categories"
+msgstr ""
+
+#: admin/admin-menu.php:51
+msgid "Changelog"
+msgstr ""
+
+#: admin/settings.php:225
+msgid "Children"
+msgstr ""
+
+#: admin/settings.php:153
+msgid "Choose the status for duplicated posts: draft, publish, or pending"
+msgstr ""
+
+#: admin/settings.php:174
+msgid ""
+"Choose where to redirect after duplicating a post: to the edit page or the "
+"list page"
+msgstr ""
+
+#: includes/duplicate-post.php:31
+msgid "Clone"
+msgstr ""
+
+#. Author of the plugin
+msgid "CodingBunny"
+msgstr ""
+
+#. Name of the plugin
+#: admin/admin-menu.php:20
+msgid "CodingBunny Easy Duplicate Post"
+msgstr ""
+
+#: admin/settings.php:226
+msgid "Comments"
+msgstr ""
+
+#: admin/settings.php:218
+msgid "Content"
+msgstr ""
+
+#: admin/settings.php:214
+msgid "Date"
+msgstr ""
+
+#: admin/admin-menu.php:50
+msgid "Documentation"
+msgstr ""
+
+#: admin/settings.php:144
+msgid "Draft"
+msgstr ""
+
+#. Description of the plugin
+msgid "Duplicate posts, pages and custom posts using single click."
+msgstr ""
+
+#: admin/admin-menu.php:10
+msgid "Easy Duplicate Post"
+msgstr ""
+
+#: admin/admin-menu.php:9
+msgid "Easy Duplicate Post Settings"
+msgstr ""
+
+#: admin/settings.php:165
+msgid "Edit Page"
+msgstr ""
+
+#: admin/settings.php:217
+msgid "Excerpt"
+msgstr ""
+
+#: admin/settings.php:219
+msgid "Featured Image"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://coding-bunny.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://coding-bunny.com/easy-duplicate-post/"
+msgstr ""
+
+#: admin/settings.php:165
+msgid "List Page"
+msgstr ""
+
+#: admin/settings.php:227
+msgid "Menu order"
+msgstr ""
+
+#: admin/admin-menu.php:23
+msgid "Options"
+msgstr ""
+
+#: admin/settings.php:223
+msgid "Password"
+msgstr ""
+
+#: admin/settings.php:106
+msgid ""
+"Passwords and password-protected content may become visible to unauthorized "
+"users and visitors."
+msgstr ""
+
+#: admin/settings.php:144
+msgid "Pending"
+msgstr ""
+
+#: admin/admin-menu.php:24
+msgid "Permissions"
+msgstr ""
+
+#: admin/settings.php:221
+msgid "Post format"
+msgstr ""
+
+#: admin/settings.php:21
+msgid "Post/page elements"
+msgstr ""
+
+#: admin/settings.php:45
+msgid "Post/page status"
+msgstr ""
+
+#: admin/admin-menu.php:48
+msgid "Powered by CodingBunny"
+msgstr ""
+
+#: admin/settings.php:187
+msgid ""
+"Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr ""
+
+#: admin/settings.php:144
+msgid "Publish"
+msgstr ""
+
+#: admin/settings.php:53
+msgid "Redirect option"
+msgstr ""
+
+#: admin/settings.php:128
+msgid "Select the post types for which you want to activate the plugin."
+msgstr ""
+
+#: coding-bunny-easy-duplicate-post.php:34
+msgid "Settings"
+msgstr ""
+
+#: admin/settings.php:216
+msgid "Slug"
+msgstr ""
+
+#: admin/settings.php:215
+msgid "Status"
+msgstr ""
+
+#: admin/settings.php:200
+msgid ""
+"Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr ""
+
+#: admin/admin-menu.php:49
+msgid "Support"
+msgstr ""
+
+#: admin/settings.php:229
+msgid "Tags"
+msgstr ""
+
+#: admin/settings.php:220
+msgid "Template"
+msgstr ""
+
+#: admin/settings.php:131
+msgid ""
+"The display of links for custom post types registered by themes or plugins "
+"depends on the use of standard WordPress UI elements."
+msgstr ""
+
+#: admin/settings.php:213
+msgid "Title"
+msgstr ""
+
+#: admin/settings.php:29
+msgid "Title prefix"
+msgstr ""
+
+#: admin/settings.php:37
+msgid "Title suffix"
+msgstr ""
+
+#: admin/settings.php:103
+msgid ""
+"Warning: users will have the ability to copy, rewrite, and repost all "
+"messages, including those of other users."
+msgstr ""
