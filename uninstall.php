@@ -5,4 +5,4 @@ if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
 }
 
 global $wpdb;
-delete_option('easy_duplicate_post_settings');
+delete_option('cbedp_settings');

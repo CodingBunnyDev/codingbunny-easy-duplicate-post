@@ -6,7 +6,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 // Function to add a duplicate link to post actions
 function cbedp_add_duplicate_link($actions, $post) {
-    $options = get_option('easy_duplicate_post_permissions');
+    $options = get_option('cbedp_permissions');
     if ( ! is_array($options) ) {
         $options = [
             'allowed_roles' => [],
@@ -54,7 +54,7 @@ function cbedp_duplicate_post_as_draft() {
         wp_die('Post not found');
     }
 
-    $options = get_option('easy_duplicate_post_options');
+    $options = get_option('cbedp_options');
     if ( ! is_array($options) ) {
         $options = [
             'prefix_title' => '',

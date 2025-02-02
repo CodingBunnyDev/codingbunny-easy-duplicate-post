@@ -22,7 +22,7 @@ function cbedp_create_admin_page() {
     <div class="wrap">
         <h1>
             <?php esc_html_e( 'CodingBunny Easy Duplicate Post', 'coding-bunny-easy-duplicate-post' ); ?> 
-            <span>v<?php echo esc_html( CODING_BUNNY_EASY_DUPLICATE_POST_VERSION ); ?></span>
+            <span>v<?php echo esc_html( CBEDP_VERSION ); ?></span>
         </h1>
         <h2 class="nav-tab-wrapper">
             <a href="#options" class="nav-tab nav-tab-active" id="options-tab"><?php esc_html_e( 'Options', 'coding-bunny-easy-duplicate-post' ); ?></a>
@@ -32,8 +32,8 @@ function cbedp_create_admin_page() {
             <div id="options" class="cbedp-tab-content">
                 <form method="post" action="options.php">
                     <?php
-                    settings_fields('easy_duplicate_post_options_group');
-                    do_settings_sections('easy-duplicate-post-options');
+                    settings_fields('cbedp_options_group');
+                    do_settings_sections('cbedp-options');
                     submit_button();
                     ?>
                 </form>
@@ -41,8 +41,8 @@ function cbedp_create_admin_page() {
             <div id="permissions" class="cbedp-tab-content" style="display:none;">
                 <form method="post" action="options.php">
                     <?php
-                    settings_fields('easy_duplicate_post_permissions_group');
-                    do_settings_sections('easy-duplicate-post-permissions');
+                    settings_fields('cbedp_permissions_group');
+                    do_settings_sections('cbedp-permissions');
                     submit_button();
                     ?>
                 </form>

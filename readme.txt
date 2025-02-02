@@ -1,9 +1,9 @@
 === CodingBunny Easy Duplicate Post ===
 Contributors: codingbunny
 Tags: duplicate post, duplicate page, clone page, clone post, duplicate custom posts
+Requires at least: 6.0
 Tested up to: 6.7
-Stable tag: 1.0.0
-Version: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
@@ -51,6 +51,9 @@ The plugin is simple to install:
 User can easily duplicate the posts, pages or the custom posts with single click. It saves user's time to re-create the same post or page again.
 
 = Changelog =
+
+1.0.1: 2025-01-30
+- Improvement: Small fixes
 
 1.0.0: 2025-01-25
 - New: Initial Release
