@@ -4,7 +4,7 @@
 * Plugin Name: CodingBunny Easy Duplicate Post
 * Plugin URI:  https://coding-bunny.com/easy-duplicate-post/
 * Description: Duplicate posts, pages and custom posts using single click.
-* Version:     1.0.1
+* Version:     1.1.0
 * Requires at least: 6.0
 * Requires PHP: 8.0
 * Author:      CodingBunny
@@ -25,6 +25,7 @@ require_once plugin_dir_path( __FILE__ ) . 'admin/admin-menu.php';
 require_once plugin_dir_path( __FILE__ ) . 'admin/settings.php';
 require_once plugin_dir_path( __FILE__ ) . 'admin/enqueue-scripts.php';
 require_once plugin_dir_path( __FILE__ ) . 'includes/duplicate-post.php';
+require_once plugin_dir_path( __FILE__ ) . 'includes/duplicate-menu.php';
 
 class CBEDP_EasyDuplicatePost {
 

@@ -27,6 +27,7 @@ function cbedp_create_admin_page() {
         <h2 class="nav-tab-wrapper">
             <a href="#options" class="nav-tab nav-tab-active" id="options-tab"><?php esc_html_e( 'Options', 'coding-bunny-easy-duplicate-post' ); ?></a>
             <a href="#permissions" class="nav-tab" id="permissions-tab"><?php esc_html_e( 'Permissions', 'coding-bunny-easy-duplicate-post' ); ?></a>
+            <a href="#duplicate-menu" class="nav-tab" id="duplicate-menu-tab"><?php esc_html_e( 'Duplicate Menu', 'coding-bunny-easy-duplicate-post' ); ?></a>
         </h2>
         <div class="cbedp-section">
             <div id="options" class="cbedp-tab-content">
@@ -47,6 +48,9 @@ function cbedp_create_admin_page() {
                     ?>
                 </form>
             </div>
+            <div id="duplicate-menu" class="cbedp-tab-content" style="display:none;">
+                <?php cbedp_create_duplicate_menu_page(); ?>
+            </div>
         </div>
         <p>
             &copy; <?php echo esc_html(gmdate('Y')); ?> - 
@@ -64,3 +68,5 @@ function cbedp_create_admin_page() {
     </div>
     <?php
 }
+
+include_once plugin_dir_path(__FILE__) . 'duplicate-menu.php';

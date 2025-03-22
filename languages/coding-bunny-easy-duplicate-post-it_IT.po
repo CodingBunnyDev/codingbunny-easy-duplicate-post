@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-25 10:15+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Matteo De Maria <info@dmmwebdesign.it>\n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: admin/settings.php:80
+msgid "Allowed post types"
+msgstr "Tipi di post consentiti"
+
+#: admin/settings.php:72
+msgid "Allowed user roles"
+msgstr "Ruoli utente consentiti"
+
+#: admin/settings.php:224
+msgid "Attachments"
+msgstr "Allegati"
+
+#: admin/settings.php:222
+msgid "Author"
+msgstr "Autore"
+
+#: admin/settings.php:228
+msgid "Categories"
+msgstr "Categorie"
+
+#: admin/admin-menu.php:51
+msgid "Changelog"
+msgstr "Changelog"
+
+#: admin/settings.php:225
+msgid "Children"
+msgstr "Children"
+
+#: admin/settings.php:153
+msgid "Choose the status for duplicated posts: draft, publish, or pending"
+msgstr "Scegliere lo stato dei post duplicati: bozza, pubblicato o in attesa"
+
+#: admin/settings.php:174
+msgid ""
+"Choose where to redirect after duplicating a post: to the edit page or the "
+"list page"
+msgstr ""
+"Scegliere dove reindirizzare dopo la duplicazione di un post: alla pagina di "
+"modifica o alla pagina dell'elenco"
+
+#: includes/duplicate-post.php:31
+msgid "Clone"
+msgstr "Clona"
+
+#. Author of the plugin
+msgid "CodingBunny"
+msgstr "CodingBunny"
+
+#. Name of the plugin
+#: admin/admin-menu.php:20
+msgid "CodingBunny Easy Duplicate Post"
+msgstr "CodingBunny Easy Duplicate Post"
+
+#: admin/settings.php:226
+msgid "Comments"
+msgstr "Commenti"
+
+#: admin/settings.php:218
+msgid "Content"
+msgstr "Contenuto"
+
+#: admin/settings.php:214
+msgid "Date"
+msgstr "Data"
+
+#: admin/admin-menu.php:50
+msgid "Documentation"
+msgstr "Documentazione"
+
+#: admin/settings.php:144
+msgid "Draft"
+msgstr "Bozza"
+
+#. Description of the plugin
+msgid "Duplicate posts, pages and custom posts using single click."
+msgstr "Duplica post, pagine e post personalizzati con un solo clic."
+
+#: admin/admin-menu.php:10
+msgid "Easy Duplicate Post"
+msgstr "Easy Duplicate Post"
+
+#: admin/admin-menu.php:9
+msgid "Easy Duplicate Post Settings"
+msgstr "Easy Duplicate Post Settings"
+
+#: admin/settings.php:165
+msgid "Edit Page"
+msgstr "Modifica pagina"
+
+#: admin/settings.php:217
+msgid "Excerpt"
+msgstr "Estratto"
+
+#: admin/settings.php:219
+msgid "Featured Image"
+msgstr "Immagine in evidenza"
+
+#. Author URI of the plugin
+msgid "https://coding-bunny.com"
+msgstr "https://coding-bunny.com"
+
+#. URI of the plugin
+msgid "https://coding-bunny.com/easy-duplicate-post/"
+msgstr "https://coding-bunny.com/easy-duplicate-post/"
+
+#: admin/settings.php:165
+msgid "List Page"
+msgstr "Pagina elenco"
+
+#: admin/settings.php:227
+msgid "Menu order"
+msgstr "Ordine menu"
+
+#: admin/admin-menu.php:23
+msgid "Options"
+msgstr "Opzioni"
+
+#: admin/settings.php:223
+msgid "Password"
+msgstr "Password"
+
+#: admin/settings.php:106
+msgid ""
+"Passwords and password-protected content may become visible to unauthorized "
+"users and visitors."
+msgstr ""
+"Le password e i contenuti protetti da password potrebbero diventare visibili "
+"a utenti e visitatori non autorizzati."
+
+#: admin/settings.php:144
+msgid "Pending"
+msgstr "In attesa"
+
+#: admin/admin-menu.php:24
+msgid "Permissions"
+msgstr "Permessi"
+
+#: admin/settings.php:221
+msgid "Post format"
+msgstr "Formato post"
+
+#: admin/settings.php:21
+msgid "Post/page elements"
+msgstr "Elementi post/pagina"
+
+#: admin/settings.php:45
+msgid "Post/page status"
+msgstr "Stato post/pagina"
+
+#: admin/admin-menu.php:48
+msgid "Powered by CodingBunny"
+msgstr "Powered by CodingBunny"
+
+#: admin/settings.php:187
+msgid ""
+"Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr ""
+"Prefisso da aggiungere dopo il titolo, ad esempio \"(dup)\" (vuoto se nessun "
+"suffisso)"
+
+#: admin/settings.php:144
+msgid "Publish"
+msgstr "Pubblica"
+
+#: admin/settings.php:53
+msgid "Redirect option"
+msgstr "Opzioni reindirizzamento"
+
+#: admin/settings.php:128
+msgid "Select the post types for which you want to activate the plugin."
+msgstr "Seleziona i tipi di post per i quali desideri attivare il plugin."
+
+#: coding-bunny-easy-duplicate-post.php:34
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: admin/settings.php:216
+msgid "Slug"
+msgstr "Slug"
+
+#: admin/settings.php:215
+msgid "Status"
+msgstr "Stato"
+
+#: admin/settings.php:200
+msgid ""
+"Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr ""
+"Suffisso da aggiungere dopo il titolo, ad esempio \"(dup)\" (vuoto se nessun "
+"suffisso)"
+
+#: admin/admin-menu.php:49
+msgid "Support"
+msgstr "Supporto"
+
+#: admin/settings.php:229
+msgid "Tags"
+msgstr "Tag"
+
+#: admin/settings.php:220
+msgid "Template"
+msgstr "Template"
+
+#: admin/settings.php:131
+msgid ""
+"The display of links for custom post types registered by themes or plugins "
+"depends on the use of standard WordPress UI elements."
+msgstr ""
+"La visualizzazione dei link per i tipi di post personalizzati registrati da "
+"temi o plugin dipende dall'uso degli elementi standard dell'interfaccia "
+"utente di WordPress."
+
+#: admin/settings.php:213
+msgid "Title"
+msgstr "Titolo"
+
+#: admin/settings.php:29
+msgid "Title prefix"
+msgstr "Prefisso del titolo"
+
+#: admin/settings.php:37
+msgid "Title suffix"
+msgstr "Suffisso del titolo"
+
+#: admin/settings.php:103
+msgid ""
+"Warning: users will have the ability to copy, rewrite, and repost all "
+"messages, including those of other users."
+msgstr ""
+"Attenzione: gli utenti avranno la possibilità di copiare, riscrivere e "
+"ripubblicare tutti i messaggi, compresi quelli di altri utenti."

@@ -16,7 +16,7 @@ function cbedp_enqueue_styles($hook_suffix) {
 
     $js_file = plugin_dir_path( __FILE__ ) . '../assets/js/admin.js';
     if ( file_exists( $js_file ) ) {
-        $version = '1.0.0';
+        $version = '1.0.1';
         wp_enqueue_script( 'easy-duplicate-post-admin-js', plugin_dir_url( __FILE__ ) . '../assets/js/admin.js', [], $version, true );
     }
 }
